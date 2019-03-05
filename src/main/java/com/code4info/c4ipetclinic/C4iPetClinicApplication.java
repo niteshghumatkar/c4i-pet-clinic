@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.code4info.c4ipetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
