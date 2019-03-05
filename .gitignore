@@ -16,6 +16,8 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+*.ids
+*.orig
 
 ### NetBeans ###
 /nbproject/private/
@@ -24,3 +26,56 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+
+### Eclipse ###
+*.pydevproject
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
+/src/main/resources/rebel.xml
+
+### Visual Studio Code ###
+.vscode/
+
+### Maven ###
+/log/
+/target/
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.db
+
+### Logs ###
+*.log
+
+### Others ###
+*.class
+*.*~
+*~
+.merge_file*
+
+### Maven Wrapper ###
+!.mvn/wrapper/maven-wrapper.jar
+
+### ESLint ###
+.eslintcache
+
+### Intellij ###
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
